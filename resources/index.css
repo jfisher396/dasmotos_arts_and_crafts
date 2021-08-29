@@ -27,3 +27,8 @@ header {
 #section-3-heading {
   background-color: skyblue;
 }
+
+span {
+    color: blue;
+    font-weight: bold;
+}
