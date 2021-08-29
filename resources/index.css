@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('pattern.webp');
+}
+
+
+
+.item-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
